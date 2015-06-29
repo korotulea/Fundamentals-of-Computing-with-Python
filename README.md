@@ -9,7 +9,7 @@ An Introduction to Interactive Programming in Python (Part 1):
 My certificate wiht distinction: https://www.coursera.org/account/accomplishments/certificate/TQ5YR8T3G9 
 
 An Introduction to Interactive Programming in Python (Part 2):
-My certificate wiht distinction: https://www.coursera.org/account/accomplishments/certificate/PTZS6YBQC6
+My certificate with distinction: https://www.coursera.org/account/accomplishments/certificate/PTZS6YBQC6
 
 Principles of Computing (Part 1)
 
