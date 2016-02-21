@@ -8,5 +8,5 @@ Links to projects:
 <li>Classic arcade game “Pong”: http://www.codeskulptor.org/#user41_C74eldZEez_0.py</li>
 <li>Card game “Memory”: http://www.codeskulptor.org/#user41_RYyEDjv7JP_0.py</li>
 <li>Card game “Blackjack”: http://www.codeskulptor.org/#user41_YijJq2QB0W_0.py</li>
-<li>Game “Spaceship - RiceRocks”:http://www.codeskulptor.org/#user41_NPEXJZaIhw_0.py</li>
+<li>Game “Spaceship - RiceRocks”: http://www.codeskulptor.org/#user41_NPEXJZaIhw_0.py</li>
 </ul>
