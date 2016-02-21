@@ -2,7 +2,7 @@
 
 Links to projects:
 <ul>
-<li>Game “2048”: http://www.codeskulptor.org/#user41_z1scqkSJb4_0.py>
+<li>Game “2048”: http://www.codeskulptor.org/#user41_z1scqkSJb4_0.py</li>
 <li>Game “Tic-Tac-Toe” (Monte Carlo simulation): http://www.codeskulptor.org/#user41_JXKFF1uVGW_0.py</li>
 <li>Planner for game “Yahtzee” (not the game): http://www.codeskulptor.org/#user41_nyfl9nw41K_0.py</li>
 <li>Cookie Clicker strategy Simulator: http://www.codeskulptor.org/#user41_SJbzyErbYR_0.py</li>
