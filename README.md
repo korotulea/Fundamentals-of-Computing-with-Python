@@ -1,6 +1,8 @@
 <h1>Fundamentals of Computing with Python</h1>
 A Specialization on Coursera offered by Rice University: Fundamentals of Computing. 
 
+Instructors: Joe Warren, Scott Rixner, Luay Nakhleh
+
 This series introduces students to the basics of analyzing and solving computational problems. It provides students with a solid foundation in the mathematical and programming techniques that support creating efficient and well-designed solutions for such problems. The Specialization concludes with a Capstone project that allows students to apply the skills they have learned throughout the courses.
 
 List of the courses:
